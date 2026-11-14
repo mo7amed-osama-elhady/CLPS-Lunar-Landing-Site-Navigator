@@ -61,7 +61,7 @@ CLPS Lunar Landing Site Navigator brings these factors together in an interactiv
 
 Export mission analysis results and comparison datasets as CSV files for further scientific analysis and reuse.
 
-![Scientific Data Export](screenshots/csv-export_2.png)
+![Scientific Data Export](screenshots/csv-export.png)
 ---
 
 ## 🛰️ Scientific Data & Technologies
