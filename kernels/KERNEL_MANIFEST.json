@@ -1,0 +1,50 @@
+[
+  {
+    "filename": "naif0012.tls",
+    "role": "Leap Seconds Kernel (LSK)",
+    "url": "https://naif.jpl.nasa.gov/pub/naif/generic_kernels/lsk/naif0012.tls",
+    "size_bytes": 5257,
+    "sha256": "678e32bdb5a744117a467cd9601cd6b373f0e9bc9bbde1371d5eee39600a039b",
+    "coverage": "TAI-UTC leap seconds through 2017-01-01 onward"
+  },
+  {
+    "filename": "pck00011.tpc",
+    "role": "Planetary Constants Kernel (Text PCK)",
+    "url": "https://naif.jpl.nasa.gov/pub/naif/generic_kernels/pck/pck00011.tpc",
+    "size_bytes": 131226,
+    "sha256": "3dff7b1dbeceaa01f25467767d3fa25816051c85d162d1edf04acb310ee28bb1",
+    "coverage": "IAU/NAIF body radii (Moon 1737.4 km, Sun 695700 km, Earth WGS84/IAU)"
+  },
+  {
+    "filename": "moon_de440_250416.tf",
+    "role": "Lunar Reference Frame Kernel (FK) paired with DE440",
+    "url": "https://naif.jpl.nasa.gov/pub/naif/generic_kernels/fk/satellites/moon_de440_250416.tf",
+    "size_bytes": 19478,
+    "sha256": "a47c71e9c9f33796bdafb2c9d69a7ee447b6016ecad80f71cd6f3e479f9cf768",
+    "coverage": "Defines MOON_PA (31000)->MOON_PA_DE440 (31008) and MOON_ME (31001)->MOON_ME_DE440_ME421 (31009)"
+  },
+  {
+    "filename": "moon_assoc_me.tf",
+    "role": "Lunar Frame-Body Association Kernel (FK)",
+    "url": "https://naif.jpl.nasa.gov/pub/naif/generic_kernels/fk/satellites/moon_assoc_me.tf",
+    "size_bytes": 8468,
+    "sha256": "52c622043ce0447d575e59ee01642f1894921e68c10f934ceff065f362da6c1c",
+    "coverage": "Associates MOON_ME frame with body 301 (Moon)"
+  },
+  {
+    "filename": "moon_pa_de440_200625.bpc",
+    "role": "Lunar Binary Orientation Kernel (DE440 Binary PCK)",
+    "url": "https://naif.jpl.nasa.gov/pub/naif/generic_kernels/pck/moon_pa_de440_200625.bpc",
+    "size_bytes": 12863488,
+    "sha256": "60cd55aa401ea2ea97360636f567554bfe4e37bb829f901b4460a455dfaf783f",
+    "coverage": "1549-12-30T23:59:19Z to 2650-01-24T23:58:51Z"
+  },
+  {
+    "filename": "de440s.bsp",
+    "role": "JPL DE440 Short-Span Planetary & Lunar Ephemeris Kernel (SPK)",
+    "url": "https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/planets/de440s.bsp",
+    "size_bytes": 32726016,
+    "sha256": "c1c7feeab882263fc493a9d5a5b2ddd71b54826cdf65d8d17a76126b260a49f2",
+    "coverage": "1849-12-25T23:59:19Z to 2150-01-21T23:58:51Z (Sun 10, Earth 399, Moon 301)"
+  }
+]

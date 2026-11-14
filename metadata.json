@@ -1,0 +1,6 @@
+{
+  "name": "CLPS Lunar Landing Site Navigator",
+  "description": "Scientific lunar landing-site explorer, visibility analyzer, and scenario comparator powered by NASA/JPL Horizons ephemerides and NASA LRO imagery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
