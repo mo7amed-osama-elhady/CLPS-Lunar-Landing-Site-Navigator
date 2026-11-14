@@ -191,9 +191,6 @@ Users can export mission analysis results and comparison datasets in CSV format 
 
 Developed for the **NASA Space Apps Challenge 2026**.
 
-## 👨‍💻 Developer
-
-**Mohamed Osama**
 
 ---
 
