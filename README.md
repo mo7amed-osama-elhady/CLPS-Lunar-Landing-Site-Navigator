@@ -33,6 +33,7 @@ CLPS Lunar Landing Site Navigator brings these factors together in an interactiv
 
 ![Explore Lunar Locations](screenshots/Explore_Lunar_Locations.jpg)
 
+
 ### 2. Choose Mission Analysis Period
 
 ![Choose Mission Analysis Period](screenshots/Choose_Mission_Analysis_Period.png)
